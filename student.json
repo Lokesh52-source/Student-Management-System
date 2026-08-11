@@ -1,0 +1,212 @@
+[
+    {
+        "roll_no": 101,
+        "name": "Arjun",
+        "age": 21,
+        "course": "Python",
+        "marks": 87
+    },
+    {
+        "roll_no": 102,
+        "name": "Priya",
+        "age": 22,
+        "course": "Data Analytics",
+        "marks": 92
+    },
+    {
+        "roll_no": 103,
+        "name": "Rahul",
+        "age": 20,
+        "course": "Java",
+        "marks": 76
+    },
+    {
+        "roll_no": 104,
+        "name": "Anjali",
+        "age": 23,
+        "course": "Python",
+        "marks": 68
+    },
+    {
+        "roll_no": 105,
+        "name": "Kiran",
+        "age": 21,
+        "course": "Web Development",
+        "marks": 81
+    },
+    {
+        "roll_no": 106,
+        "name": "Sneha",
+        "age": 20,
+        "course": "Python",
+        "marks": 95
+    },
+    {
+        "roll_no": 107,
+        "name": "Vikram",
+        "age": 24,
+        "course": "Java",
+        "marks": 73
+    },
+    {
+        "roll_no": 108,
+        "name": "Divya",
+        "age": 22,
+        "course": "Data Analytics",
+        "marks": 88
+    },
+    {
+        "roll_no": 109,
+        "name": "Rohit",
+        "age": 21,
+        "course": "Python",
+        "marks": 64
+    },
+    {
+        "roll_no": 110,
+        "name": "Swathi",
+        "age": 23,
+        "course": "Web Development",
+        "marks": 79
+    },
+    {
+        "roll_no": 111,
+        "name": "Akhil",
+        "age": 20,
+        "course": "Java",
+        "marks": 91
+    },
+    {
+        "roll_no": 112,
+        "name": "Meghana",
+        "age": 22,
+        "course": "Python",
+        "marks": 84
+    },
+    {
+        "roll_no": 113,
+        "name": "Sandeep",
+        "age": 24,
+        "course": "Data Analytics",
+        "marks": 72
+    },
+    {
+        "roll_no": 114,
+        "name": "Pooja",
+        "age": 21,
+        "course": "Python",
+        "marks": 89
+    },
+    {
+        "roll_no": 115,
+        "name": "Naveen",
+        "age": 23,
+        "course": "Java",
+        "marks": 58
+    },
+    {
+        "roll_no": 116,
+        "name": "Harsha",
+        "age": 20,
+        "course": "Web Development",
+        "marks": 83
+    },
+    {
+        "roll_no": 117,
+        "name": "Lakshmi",
+        "age": 22,
+        "course": "Python",
+        "marks": 96
+    },
+    {
+        "roll_no": 118,
+        "name": "Manoj",
+        "age": 21,
+        "course": "Data Analytics",
+        "marks": 75
+    },
+    {
+        "roll_no": 119,
+        "name": "Keerthi",
+        "age": 23,
+        "course": "Java",
+        "marks": 87
+    },
+    {
+        "roll_no": 120,
+        "name": "Tarun",
+        "age": 20,
+        "course": "Python",
+        "marks": 69
+    },
+    {
+        "roll_no": 121,
+        "name": "Aishwarya",
+        "age": 22,
+        "course": "Web Development",
+        "marks": 94
+    },
+    {
+        "roll_no": 122,
+        "name": "Rakesh",
+        "age": 24,
+        "course": "Java",
+        "marks": 62
+    },
+    {
+        "roll_no": 123,
+        "name": "Neha",
+        "age": 21,
+        "course": "Python",
+        "marks": 86
+    },
+    {
+        "roll_no": 124,
+        "name": "Varun",
+        "age": 23,
+        "course": "Data Analytics",
+        "marks": 78
+    },
+    {
+        "roll_no": 125,
+        "name": "Sowmya",
+        "age": 20,
+        "course": "Python",
+        "marks": 90
+    },
+    {
+        "roll_no": 126,
+        "name": "Prakash",
+        "age": 22,
+        "course": "Java",
+        "marks": 55
+    },
+    {
+        "roll_no": 127,
+        "name": "Deepika",
+        "age": 21,
+        "course": "Web Development",
+        "marks": 82
+    },
+    {
+        "roll_no": 128,
+        "name": "Aditya",
+        "age": 23,
+        "course": "Python",
+        "marks": 97
+    },
+    {
+        "roll_no": 129,
+        "name": "Shreya",
+        "age": 20,
+        "course": "Data Analytics",
+        "marks": 71
+    },
+    {
+        "roll_no": 130,
+        "name": "Ganesh",
+        "age": 24,
+        "course": "Java",
+        "marks": 66
+    }
+]
